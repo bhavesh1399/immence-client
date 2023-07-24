@@ -1,15 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./css/style.css";
-import {
-  Row,
-  Col,
-  Card,
-  CardTitle,
-  CardText,
-  Input,
-  Button,
-  Navbar,
-} from "reactstrap";
+import { Row, Col, Card, CardTitle, Input, Button } from "reactstrap";
 function App() {
   const initialState = {
     firstName: "",
