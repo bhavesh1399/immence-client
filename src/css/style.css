@@ -1,0 +1,21 @@
+.registr_btn {
+  background-color: blue;
+  width: 100%;
+}
+
+.immence_header {
+  box-shadow: -2px 8px 18px -5px black !important;
+}
+
+.user_list {
+  margin: 20px 0px;
+  padding: 20px 16px;
+  box-shadow: 2px 11px 19px -8px;
+}
+.user_logo {
+  padding: 12px 17px;
+  background-color: #949797;
+  border-radius: 50%;
+  color: blue;
+  margin-right: 15px;
+}
